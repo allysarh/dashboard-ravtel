@@ -1,3 +1,8 @@
+Hi! This is my frontend test result
+I also deployed it on https://dashboard-ravtel.herokuapp.com/
+
+Note: It is not responsive yet!
+-------------------------------------
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
