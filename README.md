@@ -1,8 +1,24 @@
-Hi! This is my frontend test result
+Hi!  
+
+This is my frontend test result
 I also deployed it on https://dashboard-ravtel.herokuapp.com/
 
+Screen Capture:
+
+![Capture](https://user-images.githubusercontent.com/75379284/136586276-c589e54b-c426-48b2-908c-47f67eba24d9.PNG)
+)
+
+![screencapture-localhost-3000-inquiry-2021-10-08-22_43_10](https://user-images.githubusercontent.com/75379284/136586680-33287dc5-3c43-4a10-a7da-d729359420c7.png)
+
 Note: It is not responsive yet!
+
+Some library that I used: react-router-dom, bootstrap, prime-react
+
+
 -------------------------------------
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
